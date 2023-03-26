@@ -1,0 +1,15 @@
+C:\Users\USER\OneDrive\Documents\Code\C#\SAYAYOUTUBEVIDEO\obj\Debug\net6.0\SAYAYOUTUBEVIDEO.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Documents\Code\C#\SAYAYOUTUBEVIDEO\obj\Debug\net6.0\SAYAYOUTUBEVIDEO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Documents\Code\C#\SAYAYOUTUBEVIDEO\obj\Debug\net6.0\SAYAYOUTUBEVIDEO.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Documents\Code\C#\SAYAYOUTUBEVIDEO\obj\Debug\net6.0\SAYAYOUTUBEVIDEO.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Documents\Code\C#\SAYAYOUTUBEVIDEO\obj\Debug\net6.0\SAYAYOUTUBEVIDEO.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documents\Code\C#\SAYAYOUTUBEVIDEO\bin\Debug\net6.0\SAYAYOUTUBEVIDEO.exe
+C:\Users\USER\OneDrive\Documents\Code\C#\SAYAYOUTUBEVIDEO\bin\Debug\net6.0\SAYAYOUTUBEVIDEO.deps.json
+C:\Users\USER\OneDrive\Documents\Code\C#\SAYAYOUTUBEVIDEO\bin\Debug\net6.0\SAYAYOUTUBEVIDEO.runtimeconfig.json
+C:\Users\USER\OneDrive\Documents\Code\C#\SAYAYOUTUBEVIDEO\bin\Debug\net6.0\SAYAYOUTUBEVIDEO.dll
+C:\Users\USER\OneDrive\Documents\Code\C#\SAYAYOUTUBEVIDEO\bin\Debug\net6.0\SAYAYOUTUBEVIDEO.pdb
+C:\Users\USER\OneDrive\Documents\Code\C#\SAYAYOUTUBEVIDEO\obj\Debug\net6.0\SAYAYOUTUBEVIDEO.dll
+C:\Users\USER\OneDrive\Documents\Code\C#\SAYAYOUTUBEVIDEO\obj\Debug\net6.0\refint\SAYAYOUTUBEVIDEO.dll
+C:\Users\USER\OneDrive\Documents\Code\C#\SAYAYOUTUBEVIDEO\obj\Debug\net6.0\SAYAYOUTUBEVIDEO.pdb
+C:\Users\USER\OneDrive\Documents\Code\C#\SAYAYOUTUBEVIDEO\obj\Debug\net6.0\SAYAYOUTUBEVIDEO.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Documents\Code\C#\SAYAYOUTUBEVIDEO\obj\Debug\net6.0\ref\SAYAYOUTUBEVIDEO.dll
